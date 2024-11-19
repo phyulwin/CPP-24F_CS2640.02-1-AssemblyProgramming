@@ -1,15 +1,3 @@
-# 11-13-24
-# Michael Wu
-# CS2640
-# File Handling
-# given 'gradedItems.txt'
-# open file
-# read 'gradedItems.txt'
-# 	print file contents to user in Run I/O tab
-# copy the contents and write to a new file
-# 	i.e. 'cs2640items.txt' but same content as 'gradedItems.txt'
-# close the file
-
 .include "myMacros.asm"
 
 .data
